@@ -10,6 +10,8 @@ Não use de forma ilegal. Sempre tenha permissão do dono do equipamento.
 
 Uma vulnerabilidade permite abrir cofres eletrônicos da Sentry Safe e Master Lock **sem conhecer o código PIN**.
 
+[Demo com flipper zero](https://www.youtube.com/shorts/D-jm8mZgeCM)
+
 A fabricante foi notificada mas não respondeu.  
 Aqui, adaptamos a prova de conceito para rodar em um **ESP32**.
 
